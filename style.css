@@ -290,13 +290,14 @@ footer {
   display: flex;
   flex-direction: column;
   background-color: #454545;
+  text-transform: uppercase;
 }
 
 footer p {
   text-align: center;
   margin: 20px 0;
   font-size: 48px;
-  text-transform: uppercase;
+
 }
 
 .menu-footer {
